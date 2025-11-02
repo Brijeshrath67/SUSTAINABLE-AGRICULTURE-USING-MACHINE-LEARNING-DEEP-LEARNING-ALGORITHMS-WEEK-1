@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/ML-Classification%20|%20Regression-blue" />
   <img src="https://img.shields.io/badge/Python-3.10+-yellow" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
-  <img src="https://img.shields.io/badge/Status-30%-success" />
+  <img src="https://img.shields.io/badge/Status-30percentage-success" />
 </p>
 
 # 🌱 SUSTAINABLE AGRICULTURE USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS
