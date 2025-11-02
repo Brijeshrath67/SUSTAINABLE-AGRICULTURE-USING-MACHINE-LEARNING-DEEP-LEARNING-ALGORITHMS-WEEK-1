@@ -1,8 +1,12 @@
-![Progress](https://img.shields.io/badge/Progress-30%25-blue)
-
 # Week-1
 “Week 1 milestone for the Sustainable Agriculture project – includes dataset exploration, initial data preprocessing, and preliminary analysis for building sustainable farming insights.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Classification%20|%20Regression-blue" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+  <img src="https://img.shields.io/badge/Status-30%-success" />
+</p>
 
 # 🌱 SUSTAINABLE AGRICULTURE USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS
 
